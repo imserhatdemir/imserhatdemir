@@ -1,16 +1,93 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm <a href="https://github.com/wzarok" target="_blank">Serhat DEMIR</a> !</h1>
+<h2 align="center">I'm developing myself in the field of mobile applications, I am trying to establish my career focused on software.</h2>
 
-<!--
-**wzarok/wzarok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🥇 My Skills 🥇</h2>
+
+<table align="center">
+  <tbody>
+    <tr valign="center">
+      <td width="25%" align="center">
+        <h3>C#</h3><br>
+       <a href='https://docs.microsoft.com/tr-tr/dotnet/csharp/'> <img height="64px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> </a>
+      </td>
+      <td width="25%" align="center">
+        <h3>PHP</h3><br>
+       <a href='https://www.php.net'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png"> </a>
+      </td>
+      <td width="25%" align="center">
+        <h3>SQL</h3><br>
+       <a href='https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads'> <img height="64px" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"> </a>
+      </td>
+      <td width="25%" align="center">
+        <h3>PYTHON</h3><br>
+       <a href='https://www.python.org'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"> </a>
+      </td>
+       <td width="25%" align="center">
+        <h3>Arduino</h3><br>
+        <a href='https://www.arduino.cc/'> <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg"> </a>
+      </td>
+       <td width="25%" align="center">
+        <h3>Git</h3><br>
+       <a href='https://git-scm.com/'> <img height="64px" src="https://cdn.svgporn.com/logos/git.svg"> </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h4 align="center">I am currently working with Flutter.</h4>
+
+---
+
+<h2 align="center">👀 The Number of Visitors 👀</h2>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{wzarok}/count.svg" alt="BerkanBuyuk :: Visitor's Count" /></p>
+
+<h4 align="center">👅 Languages Used 👅</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzarok&langs_count=10&layout=compact" alt="wzarok :: Top Langs" /></p>
+
+---
+
+<h2 align="center">👽 Profile Statistics 👽</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wzarok&show_icons=true&theme=synthwave" alt="wzarok :: Profile Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wzarok&theme=nightowl&hide_border=true" width=400>
+</p>
+
+<br/>
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=wzarok&theme=elegant" /></div>
+
+---
+
+<h2 align="center">☎️ Communication ☎️</h2>
+
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <h3>GitHub</h3><br>
+       <a href='https://github.com/wzarok'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"> </a>
+      </td>
+      <td width="25%" align="center">
+        <h3>LinkedIn</h3><br>
+       <a href='https://www.linkedin.com/in/serhat-demir-8714ab1a7/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> </a>
+      </td>
+      <td width="25%" align="center">
+        <h3>Instagram</h3><br>
+       <a href='https://www.instagram.com/wzarok/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> </a>
+      </td>
+      <td width="25%" align="center">
+        <h3>Twitter</h3><br>
+       <a href='https://twitter.com/wzarok'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
