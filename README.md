@@ -31,8 +31,6 @@
 </table>
 
 
-<h4 align="center">I am currently working with Flutter.</h4>
-
 ---
 
 <h2 align="center">👀 The Number of Visitors 👀</h2>
