@@ -26,11 +26,6 @@
         <h3>PYTHON</h3><br>
        <a href='https://www.python.org'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"> </a>
       </td>
-       
-       <td width="25%" align="center">
-        <h3>Git</h3><br>
-       <a href='https://git-scm.com/'> <img height="64px" src="https://cdn.svgporn.com/logos/git.svg"> </a>
-      </td>
     </tr>
   </tbody>
 </table>
