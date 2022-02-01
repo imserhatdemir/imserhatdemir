@@ -35,7 +35,7 @@
 
 <h2 align="center">👀 The Number of Visitors 👀</h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{wzarok}/count.svg" alt="BerkanBuyuk :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{wzarok}/count.svg" alt="Serhatdemir :: Visitor's Count" /></p>
 
 <h4 align="center">👅 Languages Used 👅</h4>
 
