@@ -22,10 +22,7 @@
         <h3>SQL</h3><br>
        <a href='https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads'> <img height="64px" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"> </a>
       </td>
-      <td width="25%" align="center">
-        <h3>PYTHON</h3><br>
-       <a href='https://www.python.org'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"> </a>
-      </td>
+      
     </tr>
   </tbody>
 </table>
