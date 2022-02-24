@@ -15,8 +15,8 @@
        <a href='https://docs.microsoft.com/tr-tr/dotnet/csharp/'> <img height="64px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> </a>
       </td>
       <td width="25%" align="center">
-        <h3>PHP</h3><br>
-       <a href='https://www.php.net'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png"> </a>
+        <h3>.NET</h3><br>
+       <a href='https://docs.microsoft.com/tr-tr/dotnet/welcome'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png"> </a>
       </td>
       <td width="25%" align="center">
         <h3>SQL</h3><br>
