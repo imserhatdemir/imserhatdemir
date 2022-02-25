@@ -20,7 +20,7 @@
       </td>
        <td width="20%" align="center">
         <h3>JQuery</h3><br>
-       <a href='https://jquery.com'> <img height="64px" src="http://lz3g.com/wp-content/uploads/687474703a2f2f707265636973696f6e2d736f6674776172652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f6a5175726572792e676966.gif"> </a>
+       <a href='https://jquery.com'> <img height="64px" src="https://miro.medium.com/max/285/1*QR2SBNwG75LyY5uwqWpN3A.png"> </a>
       </td>
       <td width="20%" align="center">
         <h3>SQL</h3><br>
