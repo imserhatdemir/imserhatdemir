@@ -22,7 +22,7 @@
         <h3>SQL</h3><br>
        <a href='https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads'> <img height="64px" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"> </a>
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <h3>PHP</h3><br>
        <a href='https://www.php.net'> <img height="64px" src="https://yazilimtr.com/assets/uploads/php-00441489844a0103eae71ba2fe15244c.png"> </a>
       </td>
