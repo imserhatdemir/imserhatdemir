@@ -78,6 +78,10 @@
         <h3>Twitter</h3><br>
        <a href='https://twitter.com/wzarok'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> </a>
       </td>
+        <td width="25%" align="center">
+        <h3>Mail</h3><br>
+       <a href='serhatdemir1235@gmail.com'> <img height="64px" src="https://cdn3.iconfinder.com/data/icons/vector-icons-for-mobile-apps-2/512/Mail_black-512.png"> </a>
+      </td>
     </tr>
   </tbody>
 </table>
