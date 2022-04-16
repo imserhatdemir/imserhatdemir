@@ -18,6 +18,10 @@
         <h3>.NET</h3><br>
        <a href='https://docs.microsoft.com/tr-tr/dotnet/welcome'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png"> </a>
       </td>
+       <td width="25%" align="center">
+        <h3>.NET Core</h3><br>
+       <a href='https://dotnet.microsoft.com/en-us/download'> <img height="64px" src="https://mennankose.com/content/images/2019/10/netcore.png"> </a>
+      </td>
       <td width="25%" align="center">
         <h3>SQL</h3><br>
        <a href='https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads'> <img height="64px" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"> </a>
