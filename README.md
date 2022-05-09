@@ -63,10 +63,6 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <h3>GitHub</h3><br>
-       <a href='https://github.com/wzarok'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"> </a>
-      </td>
-      <td width="25%" align="center">
         <h3>LinkedIn</h3><br>
        <a href='https://www.linkedin.com/in/demirserhat/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> </a>
       </td>
