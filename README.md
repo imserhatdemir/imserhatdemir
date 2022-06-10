@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am <a href="https://github.com/wzarok" target="_blank">Serhat DEMIR</a> !</h1>
+<h1 align="center">Hi, I am <a href="https://github.com/wzarok" target="_blank">Serhat DEMIR</a> </h1>
 <h2 align="center">I am developing myself on the backend side. I plan my career focused on software</h2>
 
 <br/>
