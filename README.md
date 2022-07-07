@@ -72,7 +72,7 @@
       </td>
         <td width="25%" align="center">
         <h3>Mail</h3><br>
-       <a href='serhatdemir1235@gmail.com'> <img height="64px" src="https://cdn3.iconfinder.com/data/icons/vector-icons-for-mobile-apps-2/512/Mail_black-512.png"> </a>
+       <a href='serhatdemir1235@gmail.com'> <img height="65px" src="https://cdn3.iconfinder.com/data/icons/vector-icons-for-mobile-apps-2/512/Mail_black-512.png"> </a>
       </td>
     </tr>
   </tbody>
