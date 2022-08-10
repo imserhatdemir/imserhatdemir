@@ -81,5 +81,3 @@
     </tr>
   </tbody>
 </table>
-
- ![Snake animation](https://github.com/wzarok/wzarok/blob/output/github-contribution-grid-snake.svg)
