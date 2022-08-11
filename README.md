@@ -2,11 +2,6 @@
 <h2 align="center">I am developing myself on the backend side. I plan my career focused on software</h2>
 
 <br/>
-<div align="center">
-  <a href="https://wzarok.github.io/wzarok/">
-  <img  src="https://github.com/wzarok/wzarok/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 --- 
 
 <h2 align="center">🥇 My Skills 🥇</h2>
