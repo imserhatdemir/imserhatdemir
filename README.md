@@ -21,7 +21,13 @@
         <h3>SQL</h3><br>
        <a href='https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads'> <img height="64px" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"> </a>
       </td>
-            <td width="25%" align="center">
+    </tr>
+  </tbody>
+</table>
+<table align="center">
+  <tbody>
+    <tr valign="center">
+       	<td width="25%" align="center">
         <h3>POSTMAN</h3><br>
        <a href='[https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads](https://www.postman.com)'> <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"> </a>
       </td>
