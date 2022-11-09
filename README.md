@@ -19,7 +19,7 @@
       </td>
        <td width="25%" align="center">
         <h3>Blazor</h3><br>
-       <a href='https://docs.microsoft.com/tr-tr/dotnet/welcome'> <img height="64px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png](https://www.howtogeek.com/wp-content/uploads/csit/2021/08/bca5f5f6-1.png?height=200p&trim=2,2,2,2)"> </a>
+       <a href='https://docs.microsoft.com/tr-tr/dotnet/welcome'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"> </a>
       </td>
       <td width="25%" align="center">
         <h3>SQL</h3><br>
