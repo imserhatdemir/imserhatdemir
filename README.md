@@ -36,10 +36,6 @@
        <a href='[https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads](https://www.postman.com)'> <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"> </a>
       </td>
        <td width="25%" align="center">
-        <h3>Docker</h3><br>
-       <a href='https://www.docker.com'> <img height="64px" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"> </a>
-      </td>
-       <td width="25%" align="center">
         <h3>MongoDB</h3><br>
        <a href='https://www.mongodb.com'> <img height="64px" src="https://www.heise.de/download/media/mongodb-82926/mongodb-logo_1-1-30.png"> </a>
       </td>
