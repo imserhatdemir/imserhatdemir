@@ -21,6 +21,10 @@
         <h3>Blazor</h3><br>
        <a href='https://docs.microsoft.com/tr-tr/dotnet/welcome'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"> </a>
       </td>
+       <td width="25%" align="center">
+        <h3>MudBlazor</h3><br>
+       <a href='https://mudblazor.com/'> <img height="64px" src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png"> </a>
+      </td>
       <td width="25%" align="center">
         <h3>SQL</h3><br>
        <a href='https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads'> <img height="64px" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"> </a>
