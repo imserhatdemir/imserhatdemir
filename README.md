@@ -11,7 +11,7 @@
     <tr valign="center">
       <td width="25%" align="center">
         <h3>C#</h3><br>
-       <a href='https://docs.microsoft.com/tr-tr/dotnet/csharp/'> <img height="64px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> </a>
+       <a href='https://docs.microsoft.com/tr-tr/dotnet/csharp/'> <img height="64px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"</a>
       </td>
       <td width="25%" align="center">
         <h3>.NET</h3><br>
@@ -25,7 +25,6 @@
         <h3>MudBlazor</h3><br>
        <a href='https://mudblazor.com/'> <img height="64px" src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png"> </a>
       </td>
-      
     </tr>
   </tbody>
 </table>
