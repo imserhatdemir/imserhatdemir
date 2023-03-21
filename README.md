@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am <a href="https://github.com/wzarok" target="_blank">Serhat DEMIR</a> </h1>
+<h1 align="center">Hi, I am <a href="https://github.com/imserhatdemir" target="_blank">Serhat DEMIR</a> </h1>
 <h2 align="center">I am developing myself on the backend side. I plan my career focused on software</h2>
 
 <br/>
@@ -48,25 +48,25 @@
 
 <h2 align="center">👀 The Number of Visitors 👀</h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{wzarok}/count.svg" alt="Serhatdemir :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{imserhatdemir}/count.svg" alt="Serhatdemir :: Visitor's Count" /></p>
 
 <h4 align="center">👅 Languages Used 👅</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzarok&langs_count=10&layout=compact" alt="wzarok :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imserhatdemir&langs_count=10&layout=compact" alt="imserhatdemir :: Top Langs" /></p>
 
 ---
 
 <h2 align="center">👽 Profile Statistics 👽</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wzarok&show_icons=true&theme=synthwave" alt="wzarok :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imserhatdemir&show_icons=true&theme=synthwave" alt="imserhatdemir :: Profile Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wzarok&theme=nightowl&hide_border=true" width=400>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imserhatdemir&theme=nightowl&hide_border=true" width=400>
 </p>
 
 <br/>
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=wzarok&theme=elegant" /></div>
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=imserhatdemir&theme=elegant" /></div>
 
 ---
 
@@ -81,7 +81,7 @@
       </td>
       <td width="25%" align="center">
         <h3>Instagram</h3><br>
-       <a href='https://www.instagram.com/wzarok/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> </a>
+       <a href='https://www.instagram.com/imserhatdemir/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> </a>
       </td>
         <td width="25%" align="center">
         <h3>Mail</h3><br>
