@@ -75,7 +75,7 @@
 
 ## 👀 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/imserhatdemir/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=imserhatdemir&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
