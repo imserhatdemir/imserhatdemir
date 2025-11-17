@@ -1,92 +1,101 @@
-<h1 align="center">Hi, I am <a href="https://github.com/imserhatdemir" target="_blank">Serhat DEMIR</a> </h1>
-<h2 align="center">I am developing myself on the backend side. I plan my career focused on software</h2>
-
-<br/>
---- 
-
-<h2 align="center">🥇 My Skills 🥇</h2>
-
-<table align="center">
-  <tbody>
-    <tr valign="center">
-      <td width="25%" align="center">
-        <h3>C#</h3><br>
-       <a href='https://docs.microsoft.com/tr-tr/dotnet/csharp/'> <img height="64px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"</a>
-      </td>
-      <td width="25%" align="center">
-        <h3>.NET</h3><br>
-       <a href='https://docs.microsoft.com/tr-tr/dotnet/welcome'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png"> </a>
-      </td>
-       <td width="25%" align="center">
-        <h3>Blazor</h3><br>
-       <a href='https://docs.microsoft.com/tr-tr/dotnet/welcome'> <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"> </a>
-      </td>
-       <td width="25%" align="center">
-        <h3>MudBlazor</h3><br>
-       <a href='https://mudblazor.com/'> <img height="64px" src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png"> </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table align="center">
-  <tbody>
-    <tr valign="center">
-       	<td width="25%" align="center">
-        <h3>POSTMAN</h3><br>
-       <a href='[https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads](https://www.postman.com)'> <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"> </a>
-      </td>
-      <td width="25%" align="center">
-        <h3>SQL</h3><br>
-       <a href='https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads'> <img height="64px" src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"> </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
----
-
-<h2 align="center">👀 The Number of Visitors 👀</h2>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{imserhatdemir}/count.svg" alt="Serhatdemir :: Visitor's Count" /></p>
-
-<h4 align="center">👅 Languages Used 👅</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imserhatdemir&langs_count=10&layout=compact" alt="imserhatdemir :: Top Langs" /></p>
-
----
-
-<h2 align="center">👽 Profile Statistics 👽</h2>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imserhatdemir&show_icons=true&theme=synthwave" alt="imserhatdemir :: Profile Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imserhatdemir&theme=nightowl&hide_border=true" width=400>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=230&section=header&text=Serhat%20Demir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<br/>
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=imserhatdemir&theme=elegant" /></div>
+<h3 align="center">🚀 Backend Developer | .NET & Clean Architecture Enthusiast</h3>
+<p align="center">
+  <b>I build scalable, modern, cloud-ready applications using .NET, Blazor, EF Core, PostgreSQL, MSSQL, and Azure.</b>
+</p>
 
 ---
 
-<h2 align="center">☎️ Communication ☎️</h2>
+## 🧑‍💻 About Me
 
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <h3>LinkedIn</h3><br>
-       <a href='https://www.linkedin.com/in/demirserhat/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> </a>
-      </td>
-      <td width="25%" align="center">
-        <h3>Instagram</h3><br>
-       <a href='https://www.instagram.com/imserhatdemir/'> <img height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> </a>
-      </td>
-        <td width="25%" align="center">
-        <h3>Mail</h3><br>
-       <a href='serhatdemir1235@gmail.com'> <img height="65px" src="https://cdn3.iconfinder.com/data/icons/vector-icons-for-mobile-apps-2/512/Mail_black-512.png"> </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+- 🔭 I’m currently developing **Clean Architecture–based .NET projects**, Blazor dashboards and modern API architectures.  
+- 🌱 Getting deeper into **Azure, Microservices, CQRS, and High-Performance API techniques**  
+- 🎯 Goal for 2025–2026: **Become a Microsoft MVP**  
+- 🧩 Building real products: PromptCraft, CraftByte, TagGo, Office Arkadaşım, SEALIX  
+- 📚 I love creating tutorials, mentoring juniors and contributing to open-source  
+
+---
+
+## 🥇 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,azure,postgres,mysql,sqlite,git,github,visualstudio,postman,linux,docker" />
+</p>
+
+---
+
+## 🛠️ Core Competencies
+
+### ✔ Backend Development
+- .NET 7–9, C#, Web API  
+- Clean Architecture, Onion Architecture  
+- CQRS, Repository–Service Pattern  
+- Middleware, Filters, Background Services  
+
+### ✔ Frontend
+- Blazor (Server/WASM)  
+- React.js (CRA + TypeScript)  
+
+### ✔ Databases
+- MSSQL • PostgreSQL • MongoDB  
+- EF Core, Migrations, Performance Tuning  
+
+### ✔ Cloud & DevOps
+- Azure App Service  
+- GitHub Actions (CI/CD pipelines)  
+- Docker  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imserhatdemir&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imserhatdemir&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imserhatdemir&layout=compact&theme=radical&langs_count=10" height="165"/>
+</p>
+
+---
+
+## 🌱 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imserhatdemir&theme=react-dark&bg_color=000000&color=8E2DE2&line=4A00E0&point=FFFFFF"/>
+</p>
+
+---
+
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/imserhatdemir/count.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/demirserhat/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/imserhatdemir/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:serhatdemir1235@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer"/>
+</p>
