@@ -23,7 +23,7 @@
 ## 🥇 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,azure,postgres,mysql,sqlite,git,github,visualstudio,postman,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mudblazor,azure,postgres,mysql,sqlite,git,github,visualstudio,postman,linux,docker" />
 </p>
 
 ---
