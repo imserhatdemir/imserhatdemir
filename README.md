@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/blazor.png" width="48px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="48px"/>
   <img src="https://skillicons.dev/icons?i=azure,postgres,mysql,sqlite,git,github,visualstudio,postman,linux,docker" />
 </p>
 
