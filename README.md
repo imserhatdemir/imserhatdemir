@@ -126,15 +126,14 @@ I’m especially interested in contributing to:
 
 ## Featured Themes From My Work
 
-- **.NET + React full-stack development**
-- **Blazor enterprise UI**
-- **React Native mobile apps**
-- **Admin dashboard systems**
-- **AI startup MVPs**
-- **Landing pages and product interfaces**
-- **Database-driven applications**
-- **Auth and role-based systems**
-
+- **Full-cycle product development with .NET, React, and scalable frontend/backend architectures**
+- **Designing enterprise Blazor experiences for complex business processes**
+- **Building cross-platform mobile products with React Native and Expo**
+- **Architecting admin systems, back-office platforms, and data-heavy dashboards**
+- **Developing AI-powered MVPs with clear business and automation value**
+- **Crafting high-quality landing pages and polished product-facing interfaces**
+- **Designing robust data-driven systems with maintainable persistence layers**
+- **Implementing secure authentication, authorization, and role-based access models**
 ---
 
 ## GitHub Stats
