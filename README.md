@@ -41,7 +41,7 @@ My focus is **C#/.NET backend engineering, React applications, enterprise integr
 
 **🎮 FRONTEND & MOBILE**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="React, TypeScript, JavaScript, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,blazor&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS and Blazor" />
 
 **🤖 AI / LLM / AGENTS**
 
@@ -56,11 +56,32 @@ My focus is **C#/.NET backend engineering, React applications, enterprise integr
 <img src="https://img.shields.io/badge/Python-4C9AFF?style=for-the-badge&labelColor=10162D&logo=python&logoColor=4C9AFF" alt="Python" />
 <img src="https://img.shields.io/badge/n8n-FB6686?style=for-the-badge&labelColor=10162D&logo=n8n&logoColor=FB6686" alt="n8n" />
 
+**🧠 MODELS & CODING AGENTS**
+
+<img src="https://img.shields.io/badge/Claude_Code-FFDB39?style=for-the-badge&labelColor=10162D&logo=anthropic&logoColor=FFDB39" alt="Claude Code" />
+<img src="https://img.shields.io/badge/ZCode-42D9E8?style=for-the-badge&labelColor=10162D&logo=codeium&logoColor=42D9E8" alt="ZCode" />
+<img src="https://img.shields.io/badge/DeepSeek-4C9AFF?style=for-the-badge&labelColor=10162D&logo=deepseek&logoColor=4C9AFF" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/Qwen-FB6686?style=for-the-badge&labelColor=10162D&logo=alibabadotcom&logoColor=FB6686" alt="Qwen" />
+
 **🛠️ TOOLS & WORKFLOW**
 
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio, VS Code and Postman" />
 
 <sub>Also working with ASP.NET Core, Blazor, React Native / Expo, SQL Server, Entity Framework Core, Dapper, REST APIs and local AI inference workflows.</sub>
+
+</div>
+
+### 🟢 BONUS LEVEL · DOTKESK
+
+<div align="center">
+
+<a href="https://dotkesk.com"><img src="./assets/dotkesk-highlight.svg" alt="Dotkesk — AI-powered conversational commerce, omnichannel inbox and connected store experiences" width="100%" /></a>
+
+**AI-powered conversational commerce for connected customer experiences.**
+
+AI agents, omnichannel inbox, customer support automation, store integrations, knowledge-base retrieval and contextual product experiences — built with **.NET · React · PostgreSQL**.
+
+[![Explore Dotkesk](https://img.shields.io/badge/EXPLORE_DOTKESK-VISIT_WEBSITE-16A34A?style=for-the-badge&labelColor=10162D&logo=googlechrome&logoColor=white)](https://dotkesk.com)
 
 </div>
 
