@@ -101,7 +101,9 @@ AI agents, omnichannel inbox, customer support automation, store integrations, k
 <img src="https://github-readme-stats.vercel.app/api?username=imserhatdemir&show_icons=true&theme=transparent&hide_border=true&title_color=ffdb39&icon_color=ffdb39&text_color=aebce8&ring_color=4c9aff" alt="GitHub statistics" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=imserhatdemir&theme=transparent&hide_border=true&ring=ffdb39&fire=fb6686&currStreakLabel=ffdb39&sideLabels=aebce8&dates=aebce8" alt="GitHub contribution streak" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imserhatdemir&bg_color=0d1117&color=ffdb39&line=4c9aff&point=fb6686&area=true&hide_border=true" alt="GitHub activity graph" width="98%" />
+[![View GitHub Contributions](https://img.shields.io/badge/🟡_VIEW_LIVE_CONTRIBUTIONS-OPEN_SCOREBOARD-FFDB39?style=for-the-badge&labelColor=10162D)](https://github.com/imserhatdemir?tab=overview&from=2026-01-01&to=2026-12-31)
+
+<sub>Live contribution activity is available on GitHub — no third-party graph service required.</sub>
 
 ### 🟡 READY PLAYER TWO?
 
