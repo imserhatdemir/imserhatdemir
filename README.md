@@ -35,19 +35,32 @@ My focus is **C#/.NET backend engineering, React applications, enterprise integr
 
 <div align="center">
 
-**BACKEND & DATA**
+**⚙️ BACKEND & DATA**
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker&theme=dark" alt="C#, .NET, PostgreSQL, Redis and Docker" />
 
-**FRONTEND & MOBILE**
+**🎮 FRONTEND & MOBILE**
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="React, TypeScript, JavaScript, HTML and CSS" />
 
-**TOOLS & WORKFLOW**
+**🤖 AI / LLM / AGENTS**
+
+<img src="https://img.shields.io/badge/LLMs-FFDB39?style=for-the-badge&labelColor=10162D&logo=googlegemini&logoColor=FFDB39" alt="Large Language Models" />
+<img src="https://img.shields.io/badge/AI_Agents-42D9E8?style=for-the-badge&labelColor=10162D&logo=robotframework&logoColor=42D9E8" alt="AI Agents" />
+<img src="https://img.shields.io/badge/RAG-FB6686?style=for-the-badge&labelColor=10162D&logo=elasticsearch&logoColor=FB6686" alt="Retrieval-Augmented Generation" />
+<img src="https://img.shields.io/badge/Tool_Calling-4C9AFF?style=for-the-badge&labelColor=10162D&logo=codeblocks&logoColor=4C9AFF" alt="Tool Calling" />
+
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&labelColor=10162D&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+<img src="https://img.shields.io/badge/LM_Studio-FFDB39?style=for-the-badge&labelColor=10162D&logo=probot&logoColor=FFDB39" alt="LM Studio" />
+<img src="https://img.shields.io/badge/OpenAI-42D9E8?style=for-the-badge&labelColor=10162D&logo=openai&logoColor=42D9E8" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Python-4C9AFF?style=for-the-badge&labelColor=10162D&logo=python&logoColor=4C9AFF" alt="Python" />
+<img src="https://img.shields.io/badge/n8n-FB6686?style=for-the-badge&labelColor=10162D&logo=n8n&logoColor=FB6686" alt="n8n" />
+
+**🛠️ TOOLS & WORKFLOW**
 
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio, VS Code and Postman" />
 
-<sub>Also working with ASP.NET Core, Blazor, React Native / Expo, SQL Server, Entity Framework Core, Dapper, REST APIs, Ollama and local LLMs.</sub>
+<sub>Also working with ASP.NET Core, Blazor, React Native / Expo, SQL Server, Entity Framework Core, Dapper, REST APIs and local AI inference workflows.</sub>
 
 </div>
 
