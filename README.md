@@ -1,84 +1,80 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Serhat%20Demir&fontSize=60&fontColor=ffffff&animation=blinking&fontAlignY=50&desc=Full-Stack%20Developer%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=68&descAlign=50" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=.NET+%2B+React+Full-Stack+Developer;Blazor+%7C+React+Native+%7C+Clean+Arch;AI-Powered+SaaS+Builder;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<img src="./assets/pacman-arcade-banner.svg" alt="Pac-Man inspired Serhat Demir arcade profile banner" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/imserhatdemir">
-    <img src="https://komarev.com/ghpvc/?username=imserhatdemir&color=1D4ED8&style=for-the-badge&label=PROFILE+VIEWS" />
-  </a>
-  <a href="https://www.linkedin.com/in/demirserhat/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:serhatdemir1235@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🟡 LEVEL 01 · HELLO, WORLD!
+
+**Full Stack Developer · Enterprise Backend · AI-Powered Products**
+
+I build production-ready software, from enterprise APIs to AI agents and mobile games.
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-PLAY_NOW-FFDB39?style=for-the-badge&labelColor=10162D&logo=googlechrome&logoColor=FFDB39)](https://imserhatdemir.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-4C9AFF?style=for-the-badge&labelColor=10162D&logo=linkedin&logoColor=4C9AFF)](https://www.linkedin.com/in/demirserhat/)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-FB6686?style=for-the-badge&labelColor=10162D&logo=gmail&logoColor=FB6686)](mailto:serhatdemir1235@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=imserhatdemir&label=PLAYERS%20VISITED&color=ffdb39&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-## ⚡ About Me
+### 👾 LEVEL 02 · THE PLAYER
 
-> I build **real-world products** — not just demos.
+```text
+> PLAYER        Serhat Demir
+> CLASS         Full Stack Developer
+> MAIN QUEST    Build useful, scalable products
+> POWER-UPS     C# / .NET / React / PostgreSQL / AI
+> SIDE QUEST    Mobile games & open-source experiments
+> LOCATION      Istanbul, Türkiye
+```
 
-- 🔧 Crafting scalable systems with **.NET 8/9**, **Blazor**, **React** & **React Native Expo**
-- 🏗️ Passionate about **Clean Architecture**, **SaaS design**, and **AI-powered automation**
-- 📦 Building: admin panels, booking platforms, mobile apps, startup MVPs & AI tools
-- 🌍 Based in **Istanbul, Turkey**
+My focus is **C#/.NET backend engineering, React applications, enterprise integrations, and practical AI**. I enjoy taking a product from the initial idea through architecture, implementation, and launch.
 
----
+### 🟡 LEVEL 03 · POWER-UPS
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,blazor" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,docker,git,postgres,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,github" />
-</p>
+**BACKEND & DATA**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-1D4ED8?style=flat-square" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker&theme=dark" alt="C#, .NET, PostgreSQL, Redis and Docker" />
 
----
+**FRONTEND & MOBILE**
 
-## 🚀 What I Build
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="React, TypeScript, JavaScript, HTML and CSS" />
 
-| Domain | What |
-|---|---|
-| 🏢 **SaaS & Startups** | AI-driven tools, admin dashboards, booking & listing platforms |
-| 🏭 **Enterprise Apps** | Role-based auth, dynamic forms, reporting, modular front-ends |
-| 📱 **Mobile** | React Native Expo apps — utility, AI-powered, social & productivity |
+**TOOLS & WORKFLOW**
 
----
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio, VS Code and Postman" />
 
-## 📊 GitHub Stats
+<sub>Also working with ASP.NET Core, Blazor, React Native / Expo, SQL Server, Entity Framework Core, Dapper, REST APIs, Ollama and local LLMs.</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imserhatdemir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imserhatdemir&theme=tokyonight&hide_border=true" height="165" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imserhatdemir&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
+### 👻 LEVEL 04 · SELECT YOUR QUEST
 
----
+| Quest | What I'm building | Stack |
+| :-- | :-- | :-- |
+| **[Dotkesk](https://dotkesk.com)** | Conversational commerce platform with AI agents, omnichannel messaging, automations and store integrations | .NET · React · PostgreSQL · AI |
+| **[ft-motion](https://github.com/imserhatdemir/ft-motion)** | Open-source motion graphics experiments and tooling | TypeScript · Three.js · AI |
+| **Mobile games** | Puzzle and casual game experiences, from prototypes to published apps | Godot · React Native · iOS / Android |
+| **Enterprise systems** | APIs, business integrations, customer platforms, reporting and automation | C# · ASP.NET Core · Blazor · SQL Server |
 
-<p align="center">
-  <i>Building useful products, clean interfaces, and scalable systems — one commit at a time.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" />
-</p>
+### 🏆 LEVEL 05 · SCOREBOARD
+
+<img src="https://github-readme-stats.vercel.app/api?username=imserhatdemir&show_icons=true&theme=transparent&hide_border=true&title_color=ffdb39&icon_color=ffdb39&text_color=aebce8&ring_color=4c9aff" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=imserhatdemir&theme=transparent&hide_border=true&ring=ffdb39&fire=fb6686&currStreakLabel=ffdb39&sideLabels=aebce8&dates=aebce8" alt="GitHub contribution streak" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imserhatdemir&bg_color=0d1117&color=ffdb39&line=4c9aff&point=fb6686&area=true&hide_border=true" alt="GitHub activity graph" width="98%" />
+
+### 🟡 READY PLAYER TWO?
+
+**Have a product idea, engineering challenge, or open-source collaboration in mind?**
+
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-LET'S_BUILD_SOMETHING-FFDB39?style=for-the-badge&labelColor=10162D)](mailto:serhatdemir1235@gmail.com)
+
+<sub>GAME NOT OVER · KEEP BUILDING · KEEP LEARNING</sub>
+
+</div>
